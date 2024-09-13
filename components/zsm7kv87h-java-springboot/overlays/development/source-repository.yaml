@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zsm7kv87h-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/zsm7kv87h-java-springboot
